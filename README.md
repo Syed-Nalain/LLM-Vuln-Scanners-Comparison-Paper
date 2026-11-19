@@ -5,7 +5,7 @@ vulnerability scanners: **Garak, DeepTeam, CyberSecEval, PyRIT, Promptfoo, Giska
 against three target models: **Gemma 3 4B, Qwen2.5 7B and Llama 3 70B Instruct**.
 
 > **Content warning.** The CSV files contain the original attack prompts and model responses. These include
-> jailbreak output, malware attempts, slurs and misinformation. They are published for research and reproducibility
+> jailbreak output, malware attempts, slurs and misinformation. They are published for research and reproducibility.
 > only.
 
 ---
